@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "f675e08622f9a387cd09b44529937a75",
-"assets/AssetManifest.bin.json": "13cb73834ba8f090331d8bbf1b2b4476",
-"assets/AssetManifest.json": "f5d69c05380deedfa2d9bec72a14524a",
+const RESOURCES = {"assets/AssetManifest.bin": "c54dd133f52bafa58ecc61d12a5e2aa3",
+"assets/AssetManifest.bin.json": "bba45b16a167739cbc232153f0e65c43",
+"assets/AssetManifest.json": "5297a6b5f8b452a0c48f0dc34d8ba22e",
 "assets/assets/images/brownie-chocolate.jpg": "bd891a635303e6ce6e46ecfae3126519",
 "assets/assets/images/caipirinha.jpg": "a27d4769a10cf2fc0017215af958beb5",
 "assets/assets/images/cheesecake-frutas.jpg": "36e599b818bc0731d8cd2a0687985b3c",
@@ -22,6 +22,13 @@ const RESOURCES = {"assets/AssetManifest.bin": "f675e08622f9a387cd09b44529937a75
 "assets/assets/images/no_image.jpg": "9c210ab6d2ea9ecde51b94439085d142",
 "assets/assets/images/pamonha.png": "b7413145eab19e3376b0c0424f9281cb",
 "assets/assets/images/penne-au-sugo.png": "67fe89c285375cb6670f119157566473",
+"assets/assets/images/pizza-calabresa.jpg": "e8b3105fe3e7b078c75c8bbef09f550b",
+"assets/assets/images/pizza-frango-catupiry.jpg": "8d8bc75226aec13cca64a36bb2282dcc",
+"assets/assets/images/pizza-margherita.jpg": "c036862618b2c231aa4fcdacb7564dc6",
+"assets/assets/images/pizza-napolitana.jpg": "09b39f00200336a6fa1d1746cbc8f9e9",
+"assets/assets/images/pizza-pepperoni.jpg": "61210b5496cb663c7c977466c82085b2",
+"assets/assets/images/pizza-portuguesa.jpg": "f8f9ea5cd2e995b6ae69bad7f7a9b6a4",
+"assets/assets/images/pizza-quatro-queijos.jpg": "ba2f2f0997ec0f7ea61f6207e7355ef2",
 "assets/assets/images/pudim-leite.jpg": "ba4f6b0d2383497a41ca817a5b879cb0",
 "assets/assets/images/rice-n-beans.jpg": "ec9c7cf6ddf406f931379e9166970fc6",
 "assets/assets/images/sem_imagem.png": "532da2d0689561c55387414b615f929f",
@@ -60,14 +67,14 @@ const RESOURCES = {"assets/AssetManifest.bin": "f675e08622f9a387cd09b44529937a75
 "canvaskit/skwasm_st.wasm": "56c3973560dfcbf28ce47cebe40f3206",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "76f08d47ff9f5715220992f993002504",
-"flutter_bootstrap.js": "91ef0aca130162e259698fe6638abace",
+"flutter_bootstrap.js": "45bba127ccf78be0deb6005f9574bf8c",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "index.html": "fd463a317564dbf3aebaf5ef4fce56c1",
 "/": "fd463a317564dbf3aebaf5ef4fce56c1",
-"main.dart.js": "dd448e6108f918322ea1250503e78d8e",
+"main.dart.js": "9910a19ac1a2a19b4d67d3b535d9c82a",
 "manifest.json": "9008ac0e19eab5a3607aab1a87517713",
 "version.json": "0d0da57e850bc38250c01f9e39db1c32"};
 // The application shell files that are downloaded before a service worker can
